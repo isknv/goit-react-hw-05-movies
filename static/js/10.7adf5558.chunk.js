@@ -1,0 +1,2 @@
+(this.webpackJsonpnew=this.webpackJsonpnew||[]).push([[10],{110:function(n,r,e){"use strict";e.r(r),e.d(r,"default",(function(){return c}));var t=e(1);function c(){return Object(t.jsx)("h1",{children:"An error has occurred"})}}}]);
+//# sourceMappingURL=10.7adf5558.chunk.js.map
